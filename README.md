@@ -15,10 +15,10 @@ Olá! 👋 Eu sou Gustavo Hubner, um desenvolvedor web full stack apaixonado por
 
 Ao longo de 2023, tive a oportunidade de trabalhar em mais de 25 projetos práticos, abrangendo front-end e back-end. Aqui estão alguns destaques:
 
-### [My Wallet](*https://github.com/gustavohubnerc/my-wallet-front* (front-end) / *https://github.com/gustavohubnerc/my-wallet-back* (back-end))
+### [My Wallet] *https://github.com/gustavohubnerc/my-wallet-front (front-end) / https://github.com/gustavohubnerc/my-wallet-back* (back-end)
 Um projeto full stack de gerenciamento financeiro, proporcionando aos usuários um relatório abrangente de suas despesas.
 
-### [TrackIt](*https://github.com/gustavohubnerc/TrackIt-React*)
+### [TrackIt] *https://github.com/gustavohubnerc/TrackIt-React*
 Um software para acompanhamento de hábitos diários. Os usuários podem criar novos hábitos, determinar os dias da semana para a realização e acompanhar seu progresso.
 
 ## Contato
