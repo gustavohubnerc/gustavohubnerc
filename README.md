@@ -13,16 +13,13 @@ Olá! 👋 Eu sou Gustavo Hubner, um desenvolvedor web full stack apaixonado por
 
 ## Projetos e Experiência
 
-Ao longo de 2023, tive a oportunidade de trabalhar em mais de 25 projetos práticos, abrangendo front-end, back-end e desenvolvimento full stack. Aqui estão alguns destaques:
+Ao longo de 2023, tive a oportunidade de trabalhar em mais de 25 projetos práticos, abrangendo front-end e back-end. Aqui estão alguns destaques:
 
-### [DrivenT](link-para-o-repositorio-drivenT)
-Um software whitelabel de gerenciamento de eventos, oferecendo recursos como autenticação, compra de ingressos, acomodações, emissão de certificados e um calendário do evento.
-
-### [My Wallet](link-para-o-repositorio-my-wallet)
+### [My Wallet](*https://github.com/gustavohubnerc/my-wallet-front* (front-end) / *https://github.com/gustavohubnerc/my-wallet-back* (back-end))
 Um projeto full stack de gerenciamento financeiro, proporcionando aos usuários um relatório abrangente de suas despesas.
 
-### [TrackIt](link-para-o-repositorio-trackIt)
-Um software full stack para acompanhamento de hábitos diários. Os usuários podem criar novos hábitos, determinar os dias da semana para a realização e acompanhar seu progresso.
+### [TrackIt](*https://github.com/gustavohubnerc/TrackIt-React*)
+Um software para acompanhamento de hábitos diários. Os usuários podem criar novos hábitos, determinar os dias da semana para a realização e acompanhar seu progresso.
 
 ## Contato
 
