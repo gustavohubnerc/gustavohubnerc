@@ -15,8 +15,7 @@
 - **Libraries:** 
   - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
   - ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white)
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
+    
 - **Testes:** 
   - ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
   - ![Testes Unitários](https://img.shields.io/badge/Testes%20Unit%C3%A1rios-94B0E7?style=flat&logo=testinglibrary&logoColor=white)
